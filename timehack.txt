@@ -1,0 +1,13 @@
+sudo nano /etc/systemd/timesyncd.conf
+in the file, do
+[Time]
+NTP="your ntp server(search asia pool NTP servers)"
+FallbackNTP="your ntp server"
+
+then,
+sudo systemctl daemon-reload
+sudo timedatectl set-ntp off
+sudo timedatectl set-ntp on
+
+then, check using
+timedatectl status

@@ -1,0 +1,8 @@
+The extensions i use are-
+1) Dash to Dock animated 
+2) Coverflow Alt-Tab
+3) Rounded corners
+4) User Themes
+5) Appindicator and KStatusNotifierItem Support
+6) Blur my Shell
+8) Just Perfection

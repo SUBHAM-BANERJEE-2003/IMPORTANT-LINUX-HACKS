@@ -1,0 +1,5 @@
+the gtk themes and icon and cursor themes i use are-
+
+WhiteSur GTK themes for all of them (including the shell theme) 
+
+make sure set in ~/.config/environment.d/00-theme.conf set the global variable GTK_Theme=WhiteSur-Dark-nord

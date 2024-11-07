@@ -1,0 +1,3 @@
+the terminal i like to use is kitty theme and i use tokyonight moon 
+
+and i use lazyvim as my vim theme
